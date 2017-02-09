@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="icg_hw2_r99922020">
+</Property><Property Name="Solution File" Value="D:\ddd\Course\ICG\hw2\大黃cg_hw2\icg_hw2_r99922020\icg_hw2_r99922020.sln">
+</Property><Property Name="User Options File" Value="D:\ddd\Course\ICG\hw2\大黃cg_hw2\icg_hw2_r99922020\icg_hw2_r99922020.suo">
+</Property><Property Name="Date" Value="2012年12月4日">
+</Property><Property Name="Time" Value="下午 19:20">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="icg_hw2_r99922020.sln" Description="File successfully backed up as D:\ddd\Course\ICG\hw2\大黃cg_hw2\icg_hw2_r99922020\icg_hw2_r99922020.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="icg_hw2_r99922020.suo" Description="File successfully backed up as D:\ddd\Course\ICG\hw2\大黃cg_hw2\icg_hw2_r99922020\icg_hw2_r99922020.suo.old">
+</Event><Event ErrorLevel="0" Project="icg_hw2_r99922020" Source="icg_hw2_r99922020.vcproj" Description="Converting project file 'D:\ddd\Course\ICG\hw2\大黃cg_hw2\icg_hw2_r99922020\icg_hw2_r99922020.vcproj'.">
+</Event><Event ErrorLevel="1" Project="icg_hw2_r99922020" Source="icg_hw2_r99922020.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="icg_hw2_r99922020" Source="icg_hw2_r99922020.vcproj" Description="Done converting to new project file 'D:\ddd\Course\ICG\hw2\大黃cg_hw2\icg_hw2_r99922020\icg_hw2_r99922020.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="icg_hw2_r99922020" Source="icg_hw2_r99922020.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="icg_hw2_r99922020.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="icg_hw2_r99922020.sln" Description="Converted">
+</Event></UpgradeLog>

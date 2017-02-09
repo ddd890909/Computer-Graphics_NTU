@@ -1,0 +1,35 @@
+﻿Build started 2012-12-5 16:22:01.
+     1>Project "D:\ddd\Course\ICG\hw2\icg_hw2_r99922020\icg_hw2_r99922020.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Release\icg_hw2.unsuccessfulbuild".
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\ddd\Course\ICG\hw2\icg_hw2_r99922020\Release\icg_hw2.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\icg_hw2.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\ddd\Course\ICG\hw2\icg_hw2_r99922020\Release\icg_hw2.pdb" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\ddd\Course\ICG\hw2\icg_hw2_r99922020\Release\icg_hw2.lib" /MACHINE:X86 Release\main.obj
+         Release\scene.obj
+         Release\shader.obj
+         Release\utils.obj
+     1>main.obj : error LNK2001: unresolved external symbol __imp__glewInit@0
+     1>main.obj : error LNK2001: unresolved external symbol __imp____glewUseProgram
+     1>main.obj : error LNK2001: unresolved external symbol __imp__glewIsSupported@4
+     1>main.obj : error LNK2001: unresolved external symbol __imp____glewUniform1i
+     1>main.obj : error LNK2001: unresolved external symbol __imp____glewGetUniformLocation
+     1>shader.obj : error LNK2001: unresolved external symbol __imp____glewDeleteShader
+     1>shader.obj : error LNK2001: unresolved external symbol __imp____glewCreateShader
+     1>shader.obj : error LNK2001: unresolved external symbol __imp____glewGetShaderInfoLog
+     1>shader.obj : error LNK2001: unresolved external symbol __imp____glewLinkProgram
+     1>shader.obj : error LNK2001: unresolved external symbol __imp____glewCompileShader
+     1>shader.obj : error LNK2001: unresolved external symbol __imp____glewDetachShader
+     1>shader.obj : error LNK2001: unresolved external symbol __imp____glewShaderSource
+     1>shader.obj : error LNK2001: unresolved external symbol __imp____glewGetProgramiv
+     1>shader.obj : error LNK2001: unresolved external symbol __imp____glewDeleteProgram
+     1>shader.obj : error LNK2001: unresolved external symbol __imp____glewGetShaderiv
+     1>shader.obj : error LNK2001: unresolved external symbol __imp____glewGetProgramInfoLog
+     1>shader.obj : error LNK2001: unresolved external symbol __imp____glewCreateProgram
+     1>shader.obj : error LNK2001: unresolved external symbol __imp____glewAttachShader
+     1>D:\ddd\Course\ICG\hw2\icg_hw2_r99922020\Release\icg_hw2.exe : fatal error LNK1120: 18 unresolved externals
+     1>Done Building Project "D:\ddd\Course\ICG\hw2\icg_hw2_r99922020\icg_hw2_r99922020.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.32
